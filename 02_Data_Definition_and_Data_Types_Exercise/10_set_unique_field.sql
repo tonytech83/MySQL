@@ -1,0 +1,8 @@
+-- 10. Set Unique Field
+
+ALTER TABLE users
+DROP PRIMARY KEY,
+ADD CONSTRAINT pk_users
+PRIMARY KEY (id),
+CHANGE COLUMN username
+username VARCHAR(30) UNIQUE;
