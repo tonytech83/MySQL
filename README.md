@@ -20,7 +20,11 @@ Databases are the standard way of using dynamic information in modern applicatio
 
 ## Table of Contents:
 
-- [Databases Introduction. Data Definition and Datatypes](https://github.com/tonytech83/HTML-CSS/tree/main/01_Introduction_to_HTML_%26_CSS)
+- [Databases Introduction. Data Definition and Datatypes](https://github.com/tonytech83/MySQL/tree/main/01_Data_Definition_And_Data_Types)
+- [Basic CRUD](https://github.com/tonytech83/MySQL/tree/main/02_Basic_CRUD)
+- [Built-in Functions](https://github.com/tonytech83/MySQL/tree/main/03_05_Built_in_Functions)
+- [Data Aggregation](https://github.com/tonytech83/MySQL/tree/main/04_Data_Aggregation)
+- [Table Relations](https://github.com/tonytech83/MySQL/tree/main/05_Table_Relations)
 
 <br/>
 <br/>
