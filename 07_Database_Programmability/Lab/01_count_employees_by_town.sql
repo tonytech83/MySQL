@@ -3,7 +3,6 @@
 
 -- with function
 
--- DELIMITER $$
 
 CREATE FUNCTION ufn_count_employees_by_town(town_name VARCHAR(50))
 RETURNS INT
