@@ -19,9 +19,8 @@ ON employees
 FOR EACH ROW
 BEGIN
 	
-	INSERT
-		INTO
-		deleted_employees (first_name,
+	INSERT INTO deleted_employees (
+		first_name,
 		last_name,
 		middle_name,
 		job_title,
@@ -39,7 +38,7 @@ END$$
 
 DELIMITER ;
 
-DELETE FROM employees WHERE employee_id IN (1);
+DELETE FROM employees WHERE employee_id = 2;
 
 SELECT
 	*
