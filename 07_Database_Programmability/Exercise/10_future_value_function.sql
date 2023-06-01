@@ -7,7 +7,7 @@ CREATE FUNCTION ufn_calculate_future_value(initial_sum DECIMAL(19,4), y_interest
 RETURNS DECIMAL(19,4)
 DETERMINISTIC
 BEGIN
-	RETURN initial_sum * (POWER((1 + y_interest_rate), year_number));
+	RETURN (initial_sum * POW(1 + y_interest_rate, year_number));
 END$$
 
 SELECT ufn_calculate_future_value(1000, 0.5, 5);
