@@ -12,20 +12,20 @@ Databases are the standard way of using dynamic information in modern applicatio
 
 ## Language
 
-- SQL
+- MySQL
 
 ## Judge System
 
-- [Problem descriptiom and online judge system](https://judge.softuni.org/Contests#!/List/ByCategory/66/Java-Databases-Basics-Exercises)
+- [`Problem descriptiom and online judge system`](https://judge.softuni.org/Contests#!/List/ByCategory/66/Java-Databases-Basics-Exercises)
 
 ## Table of Contents:
 
-- [Databases Introduction. Data Definition and Datatypes](https://github.com/tonytech83/MySQL/tree/main/01_Data_Definition_And_Data_Types)
-- [Basic CRUD](https://github.com/tonytech83/MySQL/tree/main/02_Basic_CRUD)
-- [Built-in Functions](https://github.com/tonytech83/MySQL/tree/main/03_05_Built_in_Functions)
-- [Data Aggregation](https://github.com/tonytech83/MySQL/tree/main/04_Data_Aggregation)
-- [Table Relations](https://github.com/tonytech83/MySQL/tree/main/05_Table_Relations)
-- [Database Programmability and Transactions](https://github.com/tonytech83/MySQL/tree/main/07_Database_Programmability)
+- [`Databases Introduction. Data Definition and Datatypes`](https://github.com/tonytech83/MySQL/tree/main/01_Data_Definition_And_Data_Types)
+- [`Basic CRUD`](https://github.com/tonytech83/MySQL/tree/main/02_Basic_CRUD)
+- [`Built-in Functions`](https://github.com/tonytech83/MySQL/tree/main/03_05_Built_in_Functions)
+- [`Data Aggregation`](https://github.com/tonytech83/MySQL/tree/main/04_Data_Aggregation)
+- [`Table Relations`](https://github.com/tonytech83/MySQL/tree/main/05_Table_Relations)
+- [`Database Programmability and Transactions`](https://github.com/tonytech83/MySQL/tree/main/07_Database_Programmability)
 
 <br/>
 <br/>
