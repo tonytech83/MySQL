@@ -12,7 +12,7 @@ Databases are the standard way of using dynamic information in modern applicatio
 
 ## Language
 
-- MySQL
+- `MySQL`
 
 ## Judge System
 
